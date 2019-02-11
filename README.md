@@ -3,6 +3,9 @@ DR.Motasim abu zant
 11-12
 
 ** المعادلات الرياضية بتأليف واشراف عبادة أبو سير **
+
+
+
 you are to write a complete Java program that contains a class for متوازي المستطيلا
 
  على ما يأتيclass بحيث يشمل ال 
